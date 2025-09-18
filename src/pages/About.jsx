@@ -11,7 +11,7 @@ function About() {
         <div className="col-md-6">
           <h2 className="mb-4 ms-3">About Us</h2>
           <p className="text-muted ms-3">
-            At Aurelia, we believe jewelry is more than just an accessory, it’s
+            At Aurelia, we believe jewelry is more than just an accessory, it's
             a symbol of elegance, individuality, and timeless beauty. Each piece
             is crafted with passion and precision to help you shine in every
             moment of life.
